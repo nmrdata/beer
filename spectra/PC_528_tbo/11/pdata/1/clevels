@@ -1,0 +1,27 @@
+##TITLE= Parameter file, TopSpin 4.2.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Plamen.Chorbadzhiev
+$$ 2024-06-05 17:27:50.319 +0300  ORGCHM\Plamen.Chorbadzhiev@NMR-EWS01
+$$ C:/Bruker/TopSpin4.2.0/prog/curdir/changer/inmrchanger/Jun05-2024-1726-psc/1/1.26/data/nmr/PC_495/11/pdata/1/clevels
+$$ process C:\Bruker\TopSpin4.2.0\prog\mod\xwish3.exe
+##$LEVELS= (0..255)
+33844.86 -33844.86 59301.78 -59301.78 103906.5 -103906.5 182061.32 -182061.32
+319001.47 -319001.47 558943.19 -558943.19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+##$LEVSIGN= 3
+##$MAXLEV= 6
+##$METHOD= 0
+##$NEGBASE= -33844.86
+##$NEGINCR= 1.8
+##$POSBASE= 33844.86
+##$POSINCR= 1.8
+##END=

@@ -1,0 +1,63 @@
+##TITLE= Audit trail, TopSpin 4.2.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Plamen.Chorbadzhiev
+$$ D:/nmrdata/data/psc/nmr/PC_291_tbo/11/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-01-12 01:16:58.135 +0000>,<ORGCHM\Plamen.Chorbadzhiev>,<NMR-EWS01>,<go4>,<TopSpin 4.2.0>,
+      <acquisition in progress>)
+$$ D:/nmrdata/data/psc/nmr/PC_291_tbo/11/audita.txt
+(   2,<2024-01-12 01:53:24.476 +0000>,<ORGCHM\Plamen.Chorbadzhiev>,<NMR-EWS01>,<go4>,<TopSpin 4.2.0>,
+      <created by zg on 'Avance Neo 400' (NMR-EWS01) by user 'ORGCHM\Plamen.Chorbadzhiev'
+       on data set with UUID '47ec8c1a-b0e8-11ee-a092-0030d6261c4b'
+       started at 2024-01-12 01:16:58.135 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2024-01-12 01:53:24.472 +0000
+       configuration hash MD5:
+       92 7F 0A 9F 0D D0 7C E8 EE 17 06 3C 16 55 C7 CF
+       double data hash MD5: 42104
+       B3 FD 1E 02 16 B7 80 69 7B 6B 87 E3 5A 1D D9 D7>)
+(   3,<2024-01-12 03:53:29.804 +0200>,<ORGCHM\Plamen.Chorbadzhiev>,<NMR-EWS01>,<xwish3>,<TopSpin 4.2.0>,
+      <ICON-NMR User ID: psc
+       double data hash MD5: 42104
+       B3 FD 1E 02 16 B7 80 69 7B 6B 87 E3 5A 1D D9 D7>)
+(   4,<2024-01-12 03:53:30.694 +0200>,<ORGCHM\Plamen.Chorbadzhiev/psc>,<NMR-EWS01>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       12 FC DB F0 B8 1F 8B 77 F0 17 37 39 BA 9A 5B C8>)
+(   5,<2024-01-12 03:53:31.434 +0200>,<ORGCHM\Plamen.Chorbadzhiev/psc>,<NMR-EWS01>,<proc1d>,<TopSpin 4.2.0>,
+      <apk0 
+       data hash MD5: 64K
+       C4 71 CA 88 7C 36 90 33 11 C7 97 05 5A 8A 34 DE>)
+(   6,<2024-01-12 03:53:31.564 +0200>,<ORGCHM\Plamen.Chorbadzhiev/psc>,<NMR-EWS01>,<proc1d>,<TopSpin 4.2.0>,
+      <abs ABSG = 5 
+       data hash MD5: 64K
+       39 9E 3E 30 D2 88 D5 73 34 17 8C 38 0A 46 33 AB>)
+(   7,<2024-01-12 03:53:31.704 +0200>,<ORGCHM\Plamen.Chorbadzhiev/psc>,<NMR-EWS01>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       39 9E 3E 30 D2 88 D5 73 34 17 8C 38 0A 46 33 AB>)
+(   8,<2024-01-12 03:53:32.374 +0200>,<ORGCHM\Plamen.Chorbadzhiev/psc>,<NMR-EWS01>,<xwish3>,<TopSpin 4.2.0>,
+      <ICON-NMR User ID: psc
+       data hash MD5: 64K
+       39 9E 3E 30 D2 88 D5 73 34 17 8C 38 0A 46 33 AB>)
+(   9,<2024-09-23 12:09:00.522 +0300>,<Stark>,<DESKTOP-2FJTEDE>,<proc1d>,<TopSpin 3.6.1>,
+      <pk fgphup PHC0 = -7.597632 PHC1 = 9.8 
+       data hash MD5: 64K
+       DF DA 5F 77 34 37 34 88 EA FC 69 87 76 71 BE 63>)
+(  10,<2024-09-23 12:09:14.797 +0300>,<Stark>,<DESKTOP-2FJTEDE>,<proc1d>,<TopSpin 3.6.1>,
+      <bcm 0 11 65459 3.782384e+004 -2.889125e-001 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       A0 A6 A2 16 F6 93 19 AD 15 3A 78 87 0E 89 B2 BA>)
+(  11,<2024-09-23 12:09:26.727 +0300>,<Stark>,<DESKTOP-2FJTEDE>,<proc1d>,<TopSpin 3.6.1>,
+      <pk fgphup PHC0 = -0.3222503 PHC1 = 0.70625 
+       data hash MD5: 64K
+       65 D8 D9 5A 20 AC 53 0F AB DA 96 6A DD 97 6E 6D>)
+(  12,<2024-09-23 12:09:37.939 +0300>,<Stark>,<DESKTOP-2FJTEDE>,<proc1d>,<TopSpin 3.6.1>,
+      <bcm 0 11 65459 7.951483e+003 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       67 6A 1B EE 5F 94 45 77 EB B8 75 18 C0 F4 BF A2>)
+##END=
+
+$$ hash MD5
+$$ E8 47 44 85 82 9D DF 01 5C 10 EE 7C 0A 9C 1F 3F

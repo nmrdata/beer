@@ -1,0 +1,26 @@
+##TITLE= Audit trail, TopSpin 4.2.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ /root/.topspin-BladeEpu/local_acqu/PC_284_tbo/10/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-01-11 18:56:00.531 +0000>,<ORGCHM\Plamen.Chorbadzhiev>,<NMR-EWS01>,<go4>,<TopSpin 4.2.0>,
+      <acquisition in progress>)
+$$ D:/nmrdata/data/psc/nmr/PC_284_tbo/10/audita.txt
+(   2,<2024-01-11 18:56:07.541 +0000>,<ORGCHM\Plamen.Chorbadzhiev>,<NMR-EWS01>,<go4>,<TopSpin 4.2.0>,
+      <created by zg on 'Avance Neo 400' (NMR-EWS01) by user 'ORGCHM\Plamen.Chorbadzhiev'
+       on data set with UUID '0fbe60f0-b0b3-11ee-9374-0030d6261c4b'
+       started at 2024-01-11 18:56:00.531 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2024-01-11 18:56:07.538 +0000
+       configuration hash MD5:
+       92 7F 0A 9F 0D D0 7C E8 EE 17 06 3C 16 55 C7 CF
+       double data hash MD5: 32K
+       F0 F7 A2 EC 82 F8 B7 15 84 AC 07 58 5C E5 CE 30>)
+(   3,<2024-01-11 20:56:08.329 +0200>,<ORGCHM\Plamen.Chorbadzhiev>,<NMR-EWS01>,<xwish3>,<TopSpin 4.2.0>,
+      <ICON-NMR User ID: psc
+       double data hash MD5: 32K
+       F0 F7 A2 EC 82 F8 B7 15 84 AC 07 58 5C E5 CE 30>)
+##END=
+
+$$ hash MD5
+$$ 2C 11 4C 3C DE 1F 23 99 6D D9 70 F9 D0 9D 62 B6

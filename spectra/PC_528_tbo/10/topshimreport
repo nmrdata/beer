@@ -1,0 +1,52 @@
+
+New TopShim run:
+
+version = topshim 2.3.0
+date = 2024-06-06
+time = 23:22:16.677
+command = topshim ordmax=8 tunea
+
+FINE SHIMMING
+
+Parameters:
+
+probe = Z175272_0007
+solvent = H2O_beer
+shim nucleus = 2H
+nucleus optimised for = 1H
+o1p (from lock) = 4.70 ppm
+selective excitation width = 1.0 ppm
+
+Results:
+
+
+1D Shimming:
+Iteration 1: FWHM Before= 1.0 Hz, Target= 0.3 Hz, After= 0.3 Hz
+Iteration 2: FWHM Before= 0.3 Hz, Target= 0.3 Hz
+Shim succeeded
+
+Lineshape quality factor (1D spectrum, spinning) = 0.402
+
+
+Performing tune after shimming
+tune lock level increase = 1.0
+
+shim changes: 
+Z	-69
+Z2	-28
+Z3	-58
+Z4	+192
+Z5	+49
+Z6	-719
+Z7	-597
+Z8	+1442
+X	+2
+Y	-4
+YZ	-7
+
+duration = 4 min 13 sec
+completed successfully
+finished Thu Jun  6 23:26:29 2024
+
+
+========================================================================

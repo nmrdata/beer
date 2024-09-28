@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="Plamen.Chorbadzhiev" date="2024-01-11T20:56:10.783+02:00" expNo="10" name="PC_284_tbo" owner="" procNo="1" source="D:/nmrdata/data/psc/nmr">
+      <PeakPickDetails>F1=15.912910ppm, F2=-0.529116ppm, MI=5.00cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="4.800740" intensity="1.000000e+03" type="0"/>
+    <Peak1D F1="3.675080" intensity="4.632587e+01" type="0"/>
+    <Peak1D F1="3.657385" intensity="1.308118e+02" type="0"/>
+    <Peak1D F1="3.639657" intensity="1.332393e+02" type="0"/>
+    <Peak1D F1="3.621908" intensity="4.940902e+01" type="0"/>
+    <Peak1D F1="3.573904" intensity="5.632993e+00" type="0"/>
+    <Peak1D F1="1.192038" intensity="1.356584e+02" type="0"/>
+    <Peak1D F1="1.187226" intensity="5.260983e+00" type="0"/>
+    <Peak1D F1="1.186306" intensity="5.314670e+00" type="0"/>
+    <Peak1D F1="1.174363" intensity="2.416554e+02" type="0"/>
+    <Peak1D F1="1.169542" intensity="9.674824e+00" type="0"/>
+    <Peak1D F1="1.168604" intensity="9.493311e+00" type="0"/>
+    <Peak1D F1="1.156571" intensity="1.316123e+02" type="0"/>
+    <Peak1D F1="1.150734" intensity="5.012291e+00" type="0"/>
+  </PeakList1D>
+</PeakList>

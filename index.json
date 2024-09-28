@@ -1,0 +1,1267 @@
+{
+  "version": 4,
+  "data": {
+    "source": {
+      "entries": [
+        {
+          "relativePath": "spectra/PC_133_tbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/10/pdata/1/email_PC_133_tbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/clevels"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/email_PC_133_tbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_133_tbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/pdata/1/email_PC_272_tbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/base_info"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/clevels"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/email_PC_272_tbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_272_tbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/pdata/1/email_PC_284_tbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/base_info"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/clevels"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/email_PC_284_tbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_284_tbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/pdata/1/email_PC_291_tbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/base_info"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/clevels"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/email_PC_291_tbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_291_tbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/pdata/1/email_PC_416_tbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/base_info"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/clevels"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/email_PC_416_tbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_416_tbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/pdata/1/email_PC_417_tbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/base_info"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/clevels"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/email_PC_417_tbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_417_tbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/pdata/1/email_PC_419_tbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/base_info"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/clevels"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/email_PC_419_tbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_419_tbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/pdata/1/email_PC_423_tbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/base_info"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/clevels"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/email_PC_423_tbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_423_tbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/pdata/1/email_PC_424_tbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/base_info"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/clevels"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/email_PC_424_tbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_424_tbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/pdata/1/email_PC_528_tbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/base_info"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/clevels"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/email_PC_528_tbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/PC_528_tbo/11/acqus"
+        }
+      ]
+    },
+    "spectra": [
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_133_tbo/10/pdata/1/1i",
+            "spectra/PC_133_tbo/10/pdata/1/1r",
+            "spectra/PC_133_tbo/10/pdata/1/auditp.txt",
+            "spectra/PC_133_tbo/10/pdata/1/email_PC_133_tbo_10_1.pdf",
+            "spectra/PC_133_tbo/10/pdata/1/intrng",
+            "spectra/PC_133_tbo/10/pdata/1/outd",
+            "spectra/PC_133_tbo/10/pdata/1/peaklist.xml",
+            "spectra/PC_133_tbo/10/pdata/1/peakrng",
+            "spectra/PC_133_tbo/10/pdata/1/peaks",
+            "spectra/PC_133_tbo/10/pdata/1/proc",
+            "spectra/PC_133_tbo/10/pdata/1/procs",
+            "spectra/PC_133_tbo/10/pdata/1/title",
+            "spectra/PC_133_tbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_133_tbo/11/pdata/1/1i",
+            "spectra/PC_133_tbo/11/pdata/1/1r",
+            "spectra/PC_133_tbo/11/pdata/1/auditp.txt",
+            "spectra/PC_133_tbo/11/pdata/1/clevels",
+            "spectra/PC_133_tbo/11/pdata/1/email_PC_133_tbo_11_1.pdf",
+            "spectra/PC_133_tbo/11/pdata/1/outd",
+            "spectra/PC_133_tbo/11/pdata/1/peaklist.xml",
+            "spectra/PC_133_tbo/11/pdata/1/peakrng",
+            "spectra/PC_133_tbo/11/pdata/1/peaks",
+            "spectra/PC_133_tbo/11/pdata/1/proc",
+            "spectra/PC_133_tbo/11/pdata/1/procs",
+            "spectra/PC_133_tbo/11/pdata/1/thumb.png",
+            "spectra/PC_133_tbo/11/pdata/1/title",
+            "spectra/PC_133_tbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_272_tbo/10/pdata/1/1i",
+            "spectra/PC_272_tbo/10/pdata/1/1r",
+            "spectra/PC_272_tbo/10/pdata/1/auditp.txt",
+            "spectra/PC_272_tbo/10/pdata/1/email_PC_272_tbo_10_1.pdf",
+            "spectra/PC_272_tbo/10/pdata/1/intrng",
+            "spectra/PC_272_tbo/10/pdata/1/outd",
+            "spectra/PC_272_tbo/10/pdata/1/peaklist.xml",
+            "spectra/PC_272_tbo/10/pdata/1/peakrng",
+            "spectra/PC_272_tbo/10/pdata/1/peaks",
+            "spectra/PC_272_tbo/10/pdata/1/proc",
+            "spectra/PC_272_tbo/10/pdata/1/procs",
+            "spectra/PC_272_tbo/10/pdata/1/title",
+            "spectra/PC_272_tbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_272_tbo/11/pdata/1/1i",
+            "spectra/PC_272_tbo/11/pdata/1/1r",
+            "spectra/PC_272_tbo/11/pdata/1/auditp.txt",
+            "spectra/PC_272_tbo/11/pdata/1/base_info",
+            "spectra/PC_272_tbo/11/pdata/1/clevels",
+            "spectra/PC_272_tbo/11/pdata/1/email_PC_272_tbo_11_1.pdf",
+            "spectra/PC_272_tbo/11/pdata/1/outd",
+            "spectra/PC_272_tbo/11/pdata/1/peaklist.xml",
+            "spectra/PC_272_tbo/11/pdata/1/peakrng",
+            "spectra/PC_272_tbo/11/pdata/1/peaks",
+            "spectra/PC_272_tbo/11/pdata/1/proc",
+            "spectra/PC_272_tbo/11/pdata/1/procs",
+            "spectra/PC_272_tbo/11/pdata/1/thumb.png",
+            "spectra/PC_272_tbo/11/pdata/1/title",
+            "spectra/PC_272_tbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_284_tbo/10/pdata/1/1i",
+            "spectra/PC_284_tbo/10/pdata/1/1r",
+            "spectra/PC_284_tbo/10/pdata/1/auditp.txt",
+            "spectra/PC_284_tbo/10/pdata/1/email_PC_284_tbo_10_1.pdf",
+            "spectra/PC_284_tbo/10/pdata/1/intrng",
+            "spectra/PC_284_tbo/10/pdata/1/outd",
+            "spectra/PC_284_tbo/10/pdata/1/peaklist.xml",
+            "spectra/PC_284_tbo/10/pdata/1/peakrng",
+            "spectra/PC_284_tbo/10/pdata/1/peaks",
+            "spectra/PC_284_tbo/10/pdata/1/proc",
+            "spectra/PC_284_tbo/10/pdata/1/procs",
+            "spectra/PC_284_tbo/10/pdata/1/title",
+            "spectra/PC_284_tbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_284_tbo/11/pdata/1/1i",
+            "spectra/PC_284_tbo/11/pdata/1/1r",
+            "spectra/PC_284_tbo/11/pdata/1/auditp.txt",
+            "spectra/PC_284_tbo/11/pdata/1/base_info",
+            "spectra/PC_284_tbo/11/pdata/1/clevels",
+            "spectra/PC_284_tbo/11/pdata/1/email_PC_284_tbo_11_1.pdf",
+            "spectra/PC_284_tbo/11/pdata/1/outd",
+            "spectra/PC_284_tbo/11/pdata/1/peaklist.xml",
+            "spectra/PC_284_tbo/11/pdata/1/peakrng",
+            "spectra/PC_284_tbo/11/pdata/1/peaks",
+            "spectra/PC_284_tbo/11/pdata/1/proc",
+            "spectra/PC_284_tbo/11/pdata/1/procs",
+            "spectra/PC_284_tbo/11/pdata/1/thumb.png",
+            "spectra/PC_284_tbo/11/pdata/1/title",
+            "spectra/PC_284_tbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_291_tbo/10/pdata/1/1i",
+            "spectra/PC_291_tbo/10/pdata/1/1r",
+            "spectra/PC_291_tbo/10/pdata/1/auditp.txt",
+            "spectra/PC_291_tbo/10/pdata/1/email_PC_291_tbo_10_1.pdf",
+            "spectra/PC_291_tbo/10/pdata/1/intrng",
+            "spectra/PC_291_tbo/10/pdata/1/outd",
+            "spectra/PC_291_tbo/10/pdata/1/peaklist.xml",
+            "spectra/PC_291_tbo/10/pdata/1/peakrng",
+            "spectra/PC_291_tbo/10/pdata/1/peaks",
+            "spectra/PC_291_tbo/10/pdata/1/proc",
+            "spectra/PC_291_tbo/10/pdata/1/procs",
+            "spectra/PC_291_tbo/10/pdata/1/title",
+            "spectra/PC_291_tbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_291_tbo/11/pdata/1/1i",
+            "spectra/PC_291_tbo/11/pdata/1/1r",
+            "spectra/PC_291_tbo/11/pdata/1/auditp.txt",
+            "spectra/PC_291_tbo/11/pdata/1/base_info",
+            "spectra/PC_291_tbo/11/pdata/1/clevels",
+            "spectra/PC_291_tbo/11/pdata/1/email_PC_291_tbo_11_1.pdf",
+            "spectra/PC_291_tbo/11/pdata/1/outd",
+            "spectra/PC_291_tbo/11/pdata/1/peaklist.xml",
+            "spectra/PC_291_tbo/11/pdata/1/peakrng",
+            "spectra/PC_291_tbo/11/pdata/1/peaks",
+            "spectra/PC_291_tbo/11/pdata/1/proc",
+            "spectra/PC_291_tbo/11/pdata/1/procs",
+            "spectra/PC_291_tbo/11/pdata/1/thumb.png",
+            "spectra/PC_291_tbo/11/pdata/1/title",
+            "spectra/PC_291_tbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_416_tbo/10/pdata/1/1i",
+            "spectra/PC_416_tbo/10/pdata/1/1r",
+            "spectra/PC_416_tbo/10/pdata/1/auditp.txt",
+            "spectra/PC_416_tbo/10/pdata/1/email_PC_416_tbo_10_1.pdf",
+            "spectra/PC_416_tbo/10/pdata/1/intrng",
+            "spectra/PC_416_tbo/10/pdata/1/outd",
+            "spectra/PC_416_tbo/10/pdata/1/peaklist.xml",
+            "spectra/PC_416_tbo/10/pdata/1/peakrng",
+            "spectra/PC_416_tbo/10/pdata/1/peaks",
+            "spectra/PC_416_tbo/10/pdata/1/proc",
+            "spectra/PC_416_tbo/10/pdata/1/procs",
+            "spectra/PC_416_tbo/10/pdata/1/title",
+            "spectra/PC_416_tbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_416_tbo/11/pdata/1/1i",
+            "spectra/PC_416_tbo/11/pdata/1/1r",
+            "spectra/PC_416_tbo/11/pdata/1/auditp.txt",
+            "spectra/PC_416_tbo/11/pdata/1/base_info",
+            "spectra/PC_416_tbo/11/pdata/1/clevels",
+            "spectra/PC_416_tbo/11/pdata/1/email_PC_416_tbo_11_1.pdf",
+            "spectra/PC_416_tbo/11/pdata/1/outd",
+            "spectra/PC_416_tbo/11/pdata/1/peaklist.xml",
+            "spectra/PC_416_tbo/11/pdata/1/peakrng",
+            "spectra/PC_416_tbo/11/pdata/1/peaks",
+            "spectra/PC_416_tbo/11/pdata/1/proc",
+            "spectra/PC_416_tbo/11/pdata/1/procs",
+            "spectra/PC_416_tbo/11/pdata/1/thumb.png",
+            "spectra/PC_416_tbo/11/pdata/1/title",
+            "spectra/PC_416_tbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_417_tbo/10/pdata/1/1i",
+            "spectra/PC_417_tbo/10/pdata/1/1r",
+            "spectra/PC_417_tbo/10/pdata/1/auditp.txt",
+            "spectra/PC_417_tbo/10/pdata/1/email_PC_417_tbo_10_1.pdf",
+            "spectra/PC_417_tbo/10/pdata/1/intrng",
+            "spectra/PC_417_tbo/10/pdata/1/outd",
+            "spectra/PC_417_tbo/10/pdata/1/peaklist.xml",
+            "spectra/PC_417_tbo/10/pdata/1/peakrng",
+            "spectra/PC_417_tbo/10/pdata/1/peaks",
+            "spectra/PC_417_tbo/10/pdata/1/proc",
+            "spectra/PC_417_tbo/10/pdata/1/procs",
+            "spectra/PC_417_tbo/10/pdata/1/title",
+            "spectra/PC_417_tbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_417_tbo/11/pdata/1/1i",
+            "spectra/PC_417_tbo/11/pdata/1/1r",
+            "spectra/PC_417_tbo/11/pdata/1/auditp.txt",
+            "spectra/PC_417_tbo/11/pdata/1/base_info",
+            "spectra/PC_417_tbo/11/pdata/1/clevels",
+            "spectra/PC_417_tbo/11/pdata/1/email_PC_417_tbo_11_1.pdf",
+            "spectra/PC_417_tbo/11/pdata/1/outd",
+            "spectra/PC_417_tbo/11/pdata/1/peaklist.xml",
+            "spectra/PC_417_tbo/11/pdata/1/peakrng",
+            "spectra/PC_417_tbo/11/pdata/1/peaks",
+            "spectra/PC_417_tbo/11/pdata/1/proc",
+            "spectra/PC_417_tbo/11/pdata/1/procs",
+            "spectra/PC_417_tbo/11/pdata/1/thumb.png",
+            "spectra/PC_417_tbo/11/pdata/1/title",
+            "spectra/PC_417_tbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_419_tbo/10/pdata/1/1i",
+            "spectra/PC_419_tbo/10/pdata/1/1r",
+            "spectra/PC_419_tbo/10/pdata/1/auditp.txt",
+            "spectra/PC_419_tbo/10/pdata/1/email_PC_419_tbo_10_1.pdf",
+            "spectra/PC_419_tbo/10/pdata/1/intrng",
+            "spectra/PC_419_tbo/10/pdata/1/outd",
+            "spectra/PC_419_tbo/10/pdata/1/peaklist.xml",
+            "spectra/PC_419_tbo/10/pdata/1/peakrng",
+            "spectra/PC_419_tbo/10/pdata/1/peaks",
+            "spectra/PC_419_tbo/10/pdata/1/proc",
+            "spectra/PC_419_tbo/10/pdata/1/procs",
+            "spectra/PC_419_tbo/10/pdata/1/title",
+            "spectra/PC_419_tbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_419_tbo/11/pdata/1/1i",
+            "spectra/PC_419_tbo/11/pdata/1/1r",
+            "spectra/PC_419_tbo/11/pdata/1/auditp.txt",
+            "spectra/PC_419_tbo/11/pdata/1/base_info",
+            "spectra/PC_419_tbo/11/pdata/1/clevels",
+            "spectra/PC_419_tbo/11/pdata/1/email_PC_419_tbo_11_1.pdf",
+            "spectra/PC_419_tbo/11/pdata/1/outd",
+            "spectra/PC_419_tbo/11/pdata/1/peaklist.xml",
+            "spectra/PC_419_tbo/11/pdata/1/peakrng",
+            "spectra/PC_419_tbo/11/pdata/1/peaks",
+            "spectra/PC_419_tbo/11/pdata/1/proc",
+            "spectra/PC_419_tbo/11/pdata/1/procs",
+            "spectra/PC_419_tbo/11/pdata/1/thumb.png",
+            "spectra/PC_419_tbo/11/pdata/1/title",
+            "spectra/PC_419_tbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_423_tbo/10/pdata/1/1i",
+            "spectra/PC_423_tbo/10/pdata/1/1r",
+            "spectra/PC_423_tbo/10/pdata/1/auditp.txt",
+            "spectra/PC_423_tbo/10/pdata/1/email_PC_423_tbo_10_1.pdf",
+            "spectra/PC_423_tbo/10/pdata/1/intrng",
+            "spectra/PC_423_tbo/10/pdata/1/outd",
+            "spectra/PC_423_tbo/10/pdata/1/peaklist.xml",
+            "spectra/PC_423_tbo/10/pdata/1/peakrng",
+            "spectra/PC_423_tbo/10/pdata/1/peaks",
+            "spectra/PC_423_tbo/10/pdata/1/proc",
+            "spectra/PC_423_tbo/10/pdata/1/procs",
+            "spectra/PC_423_tbo/10/pdata/1/title",
+            "spectra/PC_423_tbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_423_tbo/11/pdata/1/1i",
+            "spectra/PC_423_tbo/11/pdata/1/1r",
+            "spectra/PC_423_tbo/11/pdata/1/auditp.txt",
+            "spectra/PC_423_tbo/11/pdata/1/base_info",
+            "spectra/PC_423_tbo/11/pdata/1/clevels",
+            "spectra/PC_423_tbo/11/pdata/1/email_PC_423_tbo_11_1.pdf",
+            "spectra/PC_423_tbo/11/pdata/1/outd",
+            "spectra/PC_423_tbo/11/pdata/1/peaklist.xml",
+            "spectra/PC_423_tbo/11/pdata/1/peakrng",
+            "spectra/PC_423_tbo/11/pdata/1/peaks",
+            "spectra/PC_423_tbo/11/pdata/1/proc",
+            "spectra/PC_423_tbo/11/pdata/1/procs",
+            "spectra/PC_423_tbo/11/pdata/1/thumb.png",
+            "spectra/PC_423_tbo/11/pdata/1/title",
+            "spectra/PC_423_tbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_424_tbo/10/pdata/1/1i",
+            "spectra/PC_424_tbo/10/pdata/1/1r",
+            "spectra/PC_424_tbo/10/pdata/1/auditp.txt",
+            "spectra/PC_424_tbo/10/pdata/1/email_PC_424_tbo_10_1.pdf",
+            "spectra/PC_424_tbo/10/pdata/1/intrng",
+            "spectra/PC_424_tbo/10/pdata/1/outd",
+            "spectra/PC_424_tbo/10/pdata/1/peaklist.xml",
+            "spectra/PC_424_tbo/10/pdata/1/peakrng",
+            "spectra/PC_424_tbo/10/pdata/1/peaks",
+            "spectra/PC_424_tbo/10/pdata/1/proc",
+            "spectra/PC_424_tbo/10/pdata/1/procs",
+            "spectra/PC_424_tbo/10/pdata/1/title",
+            "spectra/PC_424_tbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_424_tbo/11/pdata/1/1i",
+            "spectra/PC_424_tbo/11/pdata/1/1r",
+            "spectra/PC_424_tbo/11/pdata/1/auditp.txt",
+            "spectra/PC_424_tbo/11/pdata/1/base_info",
+            "spectra/PC_424_tbo/11/pdata/1/clevels",
+            "spectra/PC_424_tbo/11/pdata/1/email_PC_424_tbo_11_1.pdf",
+            "spectra/PC_424_tbo/11/pdata/1/outd",
+            "spectra/PC_424_tbo/11/pdata/1/peaklist.xml",
+            "spectra/PC_424_tbo/11/pdata/1/peakrng",
+            "spectra/PC_424_tbo/11/pdata/1/peaks",
+            "spectra/PC_424_tbo/11/pdata/1/proc",
+            "spectra/PC_424_tbo/11/pdata/1/procs",
+            "spectra/PC_424_tbo/11/pdata/1/thumb.png",
+            "spectra/PC_424_tbo/11/pdata/1/title",
+            "spectra/PC_424_tbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_528_tbo/10/pdata/1/1i",
+            "spectra/PC_528_tbo/10/pdata/1/1r",
+            "spectra/PC_528_tbo/10/pdata/1/auditp.txt",
+            "spectra/PC_528_tbo/10/pdata/1/email_PC_528_tbo_10_1.pdf",
+            "spectra/PC_528_tbo/10/pdata/1/intrng",
+            "spectra/PC_528_tbo/10/pdata/1/outd",
+            "spectra/PC_528_tbo/10/pdata/1/peaklist.xml",
+            "spectra/PC_528_tbo/10/pdata/1/peakrng",
+            "spectra/PC_528_tbo/10/pdata/1/peaks",
+            "spectra/PC_528_tbo/10/pdata/1/proc",
+            "spectra/PC_528_tbo/10/pdata/1/procs",
+            "spectra/PC_528_tbo/10/pdata/1/title",
+            "spectra/PC_528_tbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/PC_528_tbo/11/pdata/1/1i",
+            "spectra/PC_528_tbo/11/pdata/1/1r",
+            "spectra/PC_528_tbo/11/pdata/1/auditp.txt",
+            "spectra/PC_528_tbo/11/pdata/1/base_info",
+            "spectra/PC_528_tbo/11/pdata/1/clevels",
+            "spectra/PC_528_tbo/11/pdata/1/email_PC_528_tbo_11_1.pdf",
+            "spectra/PC_528_tbo/11/pdata/1/outd",
+            "spectra/PC_528_tbo/11/pdata/1/peaklist.xml",
+            "spectra/PC_528_tbo/11/pdata/1/peakrng",
+            "spectra/PC_528_tbo/11/pdata/1/peaks",
+            "spectra/PC_528_tbo/11/pdata/1/proc",
+            "spectra/PC_528_tbo/11/pdata/1/procs",
+            "spectra/PC_528_tbo/11/pdata/1/thumb.png",
+            "spectra/PC_528_tbo/11/pdata/1/title",
+            "spectra/PC_528_tbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      }
+    ]
+  }
+}
